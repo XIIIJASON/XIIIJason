@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hey, I'm Jason
 
-<!--
-**XIIIJASON/XIIIJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **PLC Programmer** with hands-on experience on **Eaton/Cutler-Hammer D50 & D100H**, **Koyo DL05**, **LogixPro (Allen-Bradley-style)**, and **CODESYS**.  
+I like building and debugging control logic, wiring I/O, and learning factory automation using **Factory I/O** and **CODESYS**.
 
-Here are some ideas to get you started:
+## 🔧 Currently Working On
+- PLC practice projects in **CODESYS** + **Factory I/O**
+- Refreshing **ladder logic fundamentals**: timers, counters, sequencers, **bit-shift registers**
+- Learning **HMI and SCADA system basics** for interface design and process monitoring
+- Planning to study **Structured Text (ST)** for advanced PLC programming
+- Expanding knowledge in **industrial control systems** and safe wiring practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Languages & Tools
+**Ladder Logic** · **CODESYS** · **Factory I/O** · **LogixPro** · **C++** · **Python** · **Electronics**
+
+## 🎯 Goal
+Start in **industrial automation / PLC programming** (entry-level or internship), gain real-world experience, and keep learning every day.
+
+---
+
+📫 **Contact:** [Email](mailto:jballthe1st@gmail.com)
