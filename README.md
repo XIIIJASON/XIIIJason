@@ -11,7 +11,7 @@ I like building and debugging control logic, wiring I/O, and learning factory au
 - Expanding knowledge in **industrial control systems** and safe wiring practices
 
 ## 🧩 Languages & Tools
-**Ladder Logic** · **CODESYS** · **Factory I/O** · **LogixPro** · **C++** · **Python** · **Electronics**
+**Ladder Logic** · **CODESYS** · **Factory I/O** · **LogixPro** · **C++** · **C#** · **Python** · **Electronics**
 
 ## 🎯 Goal
 Start in **industrial automation / PLC programming** (entry-level or internship), gain real-world experience, and keep learning every day.
