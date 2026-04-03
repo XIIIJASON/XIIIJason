@@ -15,7 +15,3 @@ I like building and debugging control logic, wiring I/O, and learning factory au
 
 ## 🎯 Goal
 Start in **industrial automation / PLC programming** (entry-level or internship), gain real-world experience, and keep learning every day.
-
----
-
-📫 **Contact:** [Email](mailto:jballthe1st@gmail.com)
