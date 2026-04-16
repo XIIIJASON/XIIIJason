@@ -10,4 +10,4 @@ Hobbiest programmer
 - Other stuff
 
 ## 🧩 Languages & Tools
-**Ladder Logic** · **CODESYS**  · **C++** · **C#** · **Python** · **Electronics**
+**Ladder Logic** · **CODESYS**  · **C++** · **C#** · **Python** · **Electronic Troublshooting**
