@@ -6,7 +6,7 @@ Hobbiest programmer
 - 2D base-building defense game "The Bonfire"
 - 2D RPG Rogelite "Explody freinds"
 - Refreshing Plc programming skills
-- VRC Game World "REDACTED"
+- VRC Game World "VR-Mon"
 - Other stuff
 
 ## 🧩 Languages & Tools
